@@ -1,0 +1,16 @@
+.header {
+  margin-top: 15px;
+  text-align: center;
+  cursor: default;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.container__time-zone-name {
+  cursor: default;
+}
